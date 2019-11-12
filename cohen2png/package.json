@@ -1,0 +1,14 @@
+{
+  "name": "cohen2png",
+  "version": "1.0.0",
+  "description": "generates png for cohen triangles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Gammage",
+  "license": "MIT",
+  "dependencies": {
+    "pngjs": "^3.4.0"
+  }
+}
